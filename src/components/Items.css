@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width:50%;
+}
+.favourites{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width:50%;
+}
+.container img{
+    padding-left: 50px;
+    padding-bottom: 10px;
+    width:200px;
+    height: 200px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+#btn{
+    width: 100px;
+    height: 30px;
+    
+}
+h1{text-align:center;
+     color:#BC7C9C;
+     padding-bottom: 15px;
+}
